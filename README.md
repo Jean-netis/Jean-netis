@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Jean-netis/Jean-netis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi I'm Jean_netis ( @jn03 ).</h1>
+<h3 align="center">I'm Developer from Thailand.</h3>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- ⚡ Working station **Discord bot develope , Discord , Website develope , Tiktok & Instagram effect develope , other**
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 🌟 Network:
+
+<div align="center"> 
+ 
+ 🔵 Discord :  **JN03#0558**
+ - 🔴 Youtube :  **Jean_netis world | Jn03**
+  
+</div>
